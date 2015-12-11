@@ -1,0 +1,3 @@
+\contentsline {chapter}{Daftar Tabel}{i}
+\contentsline {chapter}{Daftar Gambar}{iii}
+\contentsline {chapter}{\numberline {1}Dasar Pemrograman Java}{1}
